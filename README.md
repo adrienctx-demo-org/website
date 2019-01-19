@@ -7,7 +7,7 @@ now on branch update-readme
 
 updates made on master on Github before rebase
 
+
 ## Repository purpose
 
-some changes that will conflict
-made locally
+this is just a README file
