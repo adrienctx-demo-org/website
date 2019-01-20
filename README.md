@@ -10,4 +10,4 @@ updates made on master on Github before rebase
 
 ## Repository purpose
 
-this is just a README file
+How to use git and github together
