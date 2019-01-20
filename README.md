@@ -11,3 +11,7 @@ updates made on master on Github before rebase
 ## Repository purpose
 
 How to use git and github together
+
+## Getting started
+
+`clone` this repo
